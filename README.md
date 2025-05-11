@@ -15,6 +15,12 @@ href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
   </a>
 </p>
 
+## 🚀 A PROPOS
+*CREATED BY ANONYMOUS TXC*
+*HELPER HACKER 1208*
+*TEAM TXC PRODUCTION*
+     *SHINOBI MD*
+
 
 
 
