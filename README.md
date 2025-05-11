@@ -13,12 +13,12 @@
 href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
     <img title="Notre Chainne WA" src="https://img.shields.io/badge/Notre Chaine WA-B79112?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-</p></br></br></br></br>
+</p></br></br></br>
 
 ## 🚀 A PROPOS
-*CREATED BY ANONYMOUS TXC*</br>
-*HELPER HACKER 1208*</br>
-*TEAM TXC PRODUCTION*<br>
+*CREATED BY ANONYMOUS TXC*</br></br>
+*HELPER HACKER 1208*</br></br>
+*TEAM TXC PRODUCTION*<br></br></br>
 
 
 
@@ -29,19 +29,19 @@ href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
 href="https://chat.whatsapp.com/CgG4vzvKUN33taPb4saTXJ">
     <img title="SUPPORT GROUPE" src="https://img.shields.io/badge/GROUPE SUPPORT-6EDA00?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-</p>
+</p></br></br>
 
 
-## FORK SHINOBI MD
+## 🔌 FORK SHINOBI MD
 
-[![Fork Now](https://img.shields.io/badge/Fork-SHINOBI--MD-1234B7?style=for-the-badge&logo=github&logoColor=Black)](https://github.com/Anonymous-Txc999/SHINOBI-MD/fork)
+[![Fork Now](https://img.shields.io/badge/Fork-SHINOBI--MD-1234B7?style=for-the-badge&logo=github&logoColor=Black)](https://github.com/Anonymous-Txc999/SHINOBI-MD/fork)</br></br>
 
 
-## Session ID
+## 🗞️ Session ID
 
-site de generateur de session n'est pas encore pret...
+Site de generateur de session n'est pas encore pret...</br></br>
 
-## Deploy Bot
+## ⏳ Deploy Bot
 
 Les servivces de deployment ne sont pas encore Pret...
 
