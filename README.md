@@ -1,4 +1,5 @@
-# SHINOBI-MD
-<h1 align="center">
-<span style="color: #BFAB35; font-size: 15px;">BOT CREATED BY ANONYMOUS TXC</span>
-  </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SHINOBI-MD" alt="Typing SVG" />
+  </a>
+</p>
