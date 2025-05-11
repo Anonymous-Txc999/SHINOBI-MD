@@ -11,7 +11,7 @@
 <p align="center">
 <a
 href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
-    <img title="Notre Chainne WA" src="https://img.shields.io/badge/Notre Chaine WA%20Channel-B79112?style=for-the-badge&logo=whatsapp&logoColor=black" />
+    <img title="Notre Chainne WA" src="https://img.shields.io/badge/Notre Chaine WA-B79112?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
 </p>
 
