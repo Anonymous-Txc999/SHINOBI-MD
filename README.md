@@ -81,7 +81,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<h2 align="center">  COPIER CE CODE
+<h2 align="center">  COPIÉ CE CODE
 </h2>
 
 
