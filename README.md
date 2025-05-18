@@ -13,12 +13,12 @@
 href="https://wa.me/+50942178818?text=*Salut%20Anonymous%20Txc*">
     <img title="NUMNER Wa DEV" src="https://img.shields.io/badge/NUMBER WA DEV-3AB500?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-</p></br></br></br>
+</p></br></br>
 
 ## 🚀 A PROPOS
 *CREATED BY ANONYMOUS TXC*</br></br>
 *HELPER HACKER 1208*</br></br>
-*TEAM TXC PRODUCTION*<br></br></br></br>
+*TEAM TXC PRODUCTION*<br></br></br>
 
 
 
@@ -29,7 +29,7 @@ href="https://wa.me/+50942178818?text=*Salut%20Anonymous%20Txc*">
 href="https://chat.whatsapp.com/CgG4vzvKUN33taPb4saTXJ">
     <img title="SUPPORT GROUPE" src="https://img.shields.io/badge/GROUPE SUPPORT-6EDA00?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-</p></br></br></br>
+</p></br></br>
 
 ## CHAINE WA
 
@@ -38,7 +38,7 @@ href="https://chat.whatsapp.com/CgG4vzvKUN33taPb4saTXJ">
 href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
     <img title="Notre Chainne WA" src="https://img.shields.io/badge/Notre Chaine WA-6EDA01?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-</p></br></br></br>
+</p></br></br>
 
 
 ## 🔌 FORK SHINOBI MD
