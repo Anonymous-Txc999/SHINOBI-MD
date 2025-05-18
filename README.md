@@ -11,7 +11,7 @@
 <p align="center">
 <a
 href="https://wa.me/+50942178818?text=*Salut%20Anonymous%20Txc*">
-    <img title="DEV" src="https://img.shields.io/badge/DEV-B79112?style=for-the-badge&logo=whatsapp&logoColor=black" />
+    <img title="NUMNER Wa DEV" src="https://img.shields.io/badge/NUMBER WA DEV-B79112?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
 </p></br></br></br>
 
