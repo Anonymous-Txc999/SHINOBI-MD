@@ -44,9 +44,7 @@ Site de generateur de session n'est pas encore pret...</br></br>
 ## ⏳ Deploy Bot
 
  ❖ DEPLOY_WORKFLOWS ❖
-<h3 align="center> 
-  Copied Code
-  </h3>
+
   
 ```
 name: Node.js CI
@@ -83,4 +81,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
+<h2 align="center">  COPIED CODE 
+</h2>
+
 
