@@ -43,7 +43,7 @@ Site de generateur de session n'est pas encore pret...</br></br>
 
 ## ⏳ Deploy Bot
 
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
+💈 ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
 
