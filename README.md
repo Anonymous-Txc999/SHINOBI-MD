@@ -46,11 +46,11 @@ href="https://whatsapp.com/channel/0029VaojbRDKrWR2a38S5O1k">
 [![Fork Now](https://img.shields.io/badge/Fork-SHINOBI--MD-1234B7?style=for-the-badge&logo=github&logoColor=Black)](https://github.com/Anonymous-Txc999/SHINOBI-MD/fork)</br></br></br>
 
 
-## 🗞️ Session ID
+##  SESSION ID
 
 Site de generateur de session n'est pas encore pret...</br></br>
 
-## ⏳ Deploy Bot
+##  METHODE DEPLOY
 
  ❖ DEPLOY_WORKFLOWS ❖
 
